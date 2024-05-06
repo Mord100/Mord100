@@ -1,5 +1,9 @@
 # Mordecai-Chingolo
 
-Hi, short description here....
+EnthusiasticSoftwareDeveloperskilledintheMERN(MongoDB,Express.js,React,Node.js)stack,
+Ibringadynamicapproachtocraftingrobustandscalablesolutions.Withastrongfoundationin
+ComputerScienceandpracticalexperienceinJavaScriptandJavaEnterprise,Iamdrivenbya
+passionforinnovationandthriveinfast-paceddevelopmentenvironments.Eagertocontributemy
+skillstoaforward-thinkingteamandcontributetothesuccessofcutting-edgesoftwareprojects.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mord100)](https://github.com/anuraghazra/github-readme-stats)
