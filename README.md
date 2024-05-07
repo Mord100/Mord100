@@ -2,16 +2,12 @@
 
 Enthusiastic Software Developer skilled in the MERN (MongoDB, Express.js, React, Node.js) stack, I bring a dynamic approach to crafting robust and scalable solutions. With a strong foundation in Computer Science and practical experience in JavaScript and Java Enterprise, I am driven by a passion for innovation and thrive in fast-paced development environments. Eager to contribute my skills to a forward-thinking team and contribute to the success of cutting-edge software projects.
 
-<h1 align="center">Hi, I'm Mordecai</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mord100" alt="mord100" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/lxrdmordecai" target="blank"><img src="https://img.shields.io/twitter/follow/lxrdmordecai?logo=twitter&style=for-the-badge" alt="lxrdmordecai" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/lxrdmordecai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lxrdmordecai" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mordecai chingolo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mordecai chingolo" height="30" width="40" /></a>
-<a href="https://instagram.com/mordecai.jsx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mordecai.jsx" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -20,4 +16,5 @@ Enthusiastic Software Developer skilled in the MERN (MongoDB, Express.js, React,
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mord100&show_icons=true&locale=en" alt="mord100" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mord100&" alt="mord100" /></p>
+
 
