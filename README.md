@@ -15,6 +15,5 @@ Enthusiastic Software Developer skilled in the MERN (MongoDB, Express.js, React,
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mord100&show_icons=true&locale=en" alt="mord100" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mord100&" alt="mord100" /></p>
 
 
