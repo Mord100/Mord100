@@ -1,6 +1,6 @@
 # Mord.dev
 
-Something deep and poetic here...
+Something deep and poetic here.
 
 
 <h3 align="left">Languages and Tools:</h3>
