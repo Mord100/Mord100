@@ -1,6 +1,6 @@
 ### 
 <p align="left">Something deep and poetic here.</p>
-### 
+
 
 <div align="left">
   <a href="https://git.io/streak-stats">
