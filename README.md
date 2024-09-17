@@ -6,7 +6,7 @@
 ###
 
 <div align="left">
-<img src="https://streak-stats.demolab.com?user=Mord100&theme=dark&card_width=507" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=Mord100&theme=dark&card_width=507" alt="GitHub Streak" />
 
 
 ###
