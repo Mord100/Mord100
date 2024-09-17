@@ -6,8 +6,7 @@
 ###
 
 <div align="left">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Mord100" alt="GitHub Streak" /></a>
-
+![Mord100's Stats](https://github-readme-stats.vercel.app/api?username=Mord100&theme=gruvbox&show_icons=true&hide_border=false&count_private=true)
 
 ###
 <br/>
