@@ -1,5 +1,5 @@
 ### 
-<p align="left">Something deep and poetic here.</p>
+<p align="left">Something deep and poetic here...</p>
 
 
 <div align="left">
